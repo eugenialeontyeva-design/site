@@ -608,31 +608,24 @@ body {
 }
 
 .image_1 {
-	background-image: url(../img/bg_d_1.c2b0a294d8f5f7825022b302e7196633.jpg)
+	background-image: url(../img/LR_005_View150000_Post.jpg);
 }
 
 .image_2 {
-	background-image: url(../img/bg_d_2.6c848d5b95f63d32cd472ad875bfeaa5.jpg)
+	background-image: url(../img/Kitchen_007_010002_Post_fin_last.jpg);
 }
 
 .image_3 {
-	background-image: url(../img/bg_d_3.7a3f8614205cb6a95d3c71837626f6a8.jpg)
+	background-image: url(../img/bg_d_2.6c848d5b95f63d32cd472ad875bfeaa5.jpg);
+	background-position-y: 100%;
 }
 
 .image_4 {
-	background-image: url(../img/bg_d_4.38ee8896e17535d1fa4cfed900f82e1a.png)
+	background-image: url(../img/bg_d_4.38ee8896e17535d1fa4cfed900f82e1a.png);
 }
 
 .image_5 {
-	background-image: url(../img/bg_d_5.f10192ae6895ffec858b9d3af3626451.png)
-}
-
-.image_6 {
-	background-image: url(../img/LR_005_View150000_Post.jpg)
-}
-
-.image_7 {
-	background-image: url(../img/Kitchen_007_010002_Post_fin_last.jpg)
+	background-image: url(../img/bg_d_1.c2b0a294d8f5f7825022b302e7196633.jpg);
 }
 
 .image_m_1 {
@@ -672,7 +665,7 @@ body {
 }
 
 .image_m_10 {
-	background-image: url(../img/Hall_004_020000_Post.jpg)
+	background-image: url(../img/MasterWC_005_View310005_Post.png)
 }
 
 .image_m_11 {
@@ -680,7 +673,15 @@ body {
 }
 
 .image_m_12 {
-	background-image: url(../img/MasterWC_005_View310005_Post.png)
+	background-image: url(../img/LR_005_View160000_Post.jpg)
+}
+
+.image_m_13 {
+	background-image: url(../img/Kitchen_006_020001_Post.jpg)
+}
+
+.image_m_14 {
+	background-image: url(../img/Bedroom_005_View0260003_Post_LightMix_Interactive.jpg)
 }
 
 .promo {
